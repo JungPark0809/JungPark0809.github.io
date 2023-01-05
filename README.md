@@ -1,8 +1,7 @@
----
+
 layout: home
 title: Jung Park
-permalink: /
----
+
 
 Make Jelly site have a GitBook look!
 
