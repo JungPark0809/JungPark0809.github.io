@@ -1,6 +1,6 @@
 ---
-title: Page with cover image
-author: Tao He
+title: Julia Projects
+author: Jung Park
 date: 2022-05-24
 category: Jekyll
 layout: post

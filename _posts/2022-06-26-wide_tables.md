@@ -1,6 +1,6 @@
 ---
-title: Wide tables
-author: Tao He
+title: Matlab Projects
+author: Jung Park
 date: 2022-06-26
 category: Jekyll
 layout: post
