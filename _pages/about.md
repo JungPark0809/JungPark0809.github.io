@@ -1,6 +1,6 @@
 ---
 title: About
-author: Tao He
+author: Jung Park
 date: 2022-02-04
 category: Jekyll
 layout: post

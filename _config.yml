@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Jung Park
+longtitle:        Jung Park
+author:           Jung Park
 email:            JungPark0809@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Jung Park's page
 
 version:          1.0
 gitbook_version:  3.2.3
