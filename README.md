@@ -1,9 +1,4 @@
 
----
-title: Jung Park
----
-
-
 ## Jung Park
 
 Make Jelly site have a GitBook look!
